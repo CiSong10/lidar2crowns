@@ -1,0 +1,10 @@
+# Ignore input data
+*.las
+*.laz
+
+# Ignore output data
+*.cpg
+*.dbf
+*.prj
+*.shp
+*.shx
